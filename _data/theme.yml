@@ -3,6 +3,8 @@ skin: "sea"
 navigation_pages:
   - about.md
   - cv.md
+  - tags.md
+  - categories.md
 
 google_fonts:
   - name: "Fira Sans"
