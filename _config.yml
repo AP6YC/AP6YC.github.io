@@ -1,1 +1,7 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
+title: "Sasha Petrenko's Homepage"
+description: "Homepage of Sasha Petrenko, graduate researcher of lifelong machine learning"
+url: "https://ap6yc.github.io/"
+author:
+    name: Sasha Petrenko
