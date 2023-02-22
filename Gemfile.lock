@@ -247,6 +247,8 @@ GEM
       unf_ext
     unf_ext (0.0.8.2-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
+    webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -254,7 +256,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
-  jekyll-remote-theme
+  wdm
+  webrick
 
 BUNDLED WITH
    2.4.7
