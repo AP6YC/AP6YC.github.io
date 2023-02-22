@@ -1,6 +1,7 @@
 skin: "sea"
 
 navigation_pages:
+  - posts.md
   - about.md
   - cv.md
   - tags.md
