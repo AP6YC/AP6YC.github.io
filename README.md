@@ -2,6 +2,12 @@
 
 Sasha Petrenko's personal static website.
 
+## Commands
+
+```shell
+bundle exec jekyll serve
+```
+
 ## Logos
 
 <a href="https://www.flaticon.com/free-icons/lambda" title="lambda icons">Lambda icons created by Flat Icons - Flaticon</a>
