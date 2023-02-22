@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-asdfasdfasdf
-
-asdfzd
