@@ -12,9 +12,9 @@ tags: [
 summary: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0.
 
 header:
-    image: "/assets/posts/art-header.png"
+    # image: "/assets/posts/art-header.png"
     # placement: 2
-    teaser: "/assets/posts/adaptiveresonance-github.png"
+    teaser: "/assets/posts/art-header.png"
     caption: "Adaptive Resonance Theory"
 # featured: true
 # # profile: true
@@ -48,5 +48,9 @@ header:
 #   preview_only: false
 ---
 
-`AdaptiveResonance.jl` has been released on JuliaHub!
-Please see the [project page](/project/adaptiveresonance) to learn more about the project, JuliaHub, and ART.
+![](/assets/posts/art-header.png)
+
+`AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
+These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.
+
+The contributions of the project are represented as an [paper](https://joss.theoj.org/papers/10.21105/joss.03671) in the Journal of Open Source Software (JOSS).

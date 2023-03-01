@@ -1,6 +1,6 @@
 ---
-title: ClusterValidityIndices.jl is released on JuliaHub
-subtitle: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
+title: ClusterValidityIndices.jl
+subtitle: A Julia package for batch and incremental cluster validity indices.
 layout: single
 date: 2021-09-27
 categories: ["projects"]
@@ -11,8 +11,7 @@ tags: [
 summary: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
 
 header:
-    image: "/assets/posts/cvi-header.png"
-    # teaser: "/assets/posts/cvi-github.png"
+    # image: "/assets/posts/cvi-header.png"
     teaser: "/assets/posts/cvi-header.png"
     caption: "Adaptive Resonance Theory"
 
@@ -48,5 +47,9 @@ header:
 #   preview_only: false
 ---
 
-`ClusterValidityIndices.jl` has been released on JuliaHub!
-Please see the [project page](/project/clustervalidityindices) to learn more about the project, JuliaHub, and CVI/ICVIs.
+![](/assets/posts/cvi-header.png)
+
+`ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
+
+The contributions of the project are represented as a [paper](https://joss.theoj.org/papers/10.21105/joss.03527) in the Journal of Open Source Software (JOSS).
