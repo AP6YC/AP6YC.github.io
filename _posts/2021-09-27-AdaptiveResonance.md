@@ -2,13 +2,20 @@
 title: AdaptiveResonance.jl is released on JuliaHub
 subtitle: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0
 layout: single
-
 date: 2021-09-27
-# authors: ["admin"]
 
 categories: ["projects"]
-tags: ["Julia", "ART"]
+tags: [
+    "Julia",
+    "ART"
+]
 summary: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0.
+
+header:
+    image: "/assets/posts/art-header.png"
+    # placement: 2
+    teaser: "/assets/posts/adaptiveresonance-github.png"
+    caption: "Adaptive Resonance Theory"
 # featured: true
 # # profile: true
 # # commentable: true

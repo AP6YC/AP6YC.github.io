@@ -3,10 +3,19 @@ title: ClusterValidityIndices.jl is released on JuliaHub
 subtitle: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
 layout: single
 date: 2021-09-27
-# authors: ["admin"]
 categories: ["projects"]
-tags: ["Julia", "CVI", "ICVI"]
+tags: [
+    "Julia",
+    "CVI"
+]
 summary: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
+
+header:
+    image: "/assets/posts/cvi-header.png"
+    # teaser: "/assets/posts/cvi-github.png"
+    teaser: "/assets/posts/cvi-header.png"
+    caption: "Adaptive Resonance Theory"
+
 # featured: true
 # # profile: true
 # # commentable: true
