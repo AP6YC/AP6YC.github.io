@@ -4,9 +4,14 @@ Sasha Petrenko's personal static website.
 
 ## Commands
 
+Local serve:
+
 ```shell
 bundle exec jekyll serve
 ```
+
+Font Awesome icons:
+- https://fontawesome.com/v5/search?p=3&o=r&m=free&s=solid
 
 ## Images
 

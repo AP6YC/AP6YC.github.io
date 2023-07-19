@@ -1,5 +1,5 @@
 ---
-title: AdaptiveResonance.jl is released on JuliaHub
+title: AdaptiveResonance.jl
 subtitle: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0
 layout: single
 date: 2021-09-27

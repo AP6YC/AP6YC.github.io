@@ -115,14 +115,14 @@ analytics:
 # Site Author
 author:
   name             : "Sasha Petrenko"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. candidate of Computer Engineering at Missouri S&T and lifelong machine learning researcher."
   location         : "Rolla, MO"
-  email            : "sap625@mst.edu"
+  email            : "petrenkos@mst.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mainto:sap625@mst.edu"
+      url: "mainto:petrenkos@mst.edu"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
