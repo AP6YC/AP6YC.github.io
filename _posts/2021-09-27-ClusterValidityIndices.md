@@ -8,7 +8,7 @@ tags: [
     "Julia",
     "CVI"
 ]
-summary: ClusterValidityIndices.jl is registered as an official JuliaHub package at version 0.1.0.
+summary: ClusterValidityIndices.jl is registered as an official JuliaHub.
 
 header:
     # image: "/assets/posts/cvi-header.png"
@@ -47,9 +47,32 @@ header:
 #   preview_only: false
 ---
 
-![](/assets/posts/cvi-header.png)
+![ClusterValidityIndices.jl](/assets/posts/cvi-header.png)
 
-`ClusterValidityIndices.jl` is a registered JuliaHub package for incremental and batch Cluster Validity Indices (CVI/ICVI).
+[`ClusterValidityIndices.jl`](https://github.com/AP6YC/ClusterValidityIndices.jl) is a registered [JuliaHub](https://juliahub.com/ui/Packages/ClusterValidityIndices/Z19r6) package for incremental and batch Cluster Validity Indices (CVI/ICVI).
 These algorithms are used for determining the quality and performance of a clustering algorithm in the absence of a supervisory signal.
-
 The contributions of the project are represented as a [paper](https://joss.theoj.org/papers/10.21105/joss.03527) in the Journal of Open Source Software (JOSS).
+
+The `ClusterValidityIndices.jl` package is represented in the following locations:
+
+- [GitHub](https://github.com/AP6YC/ClusterValidityIndices.jl)
+- [Documentation](https://ap6yc.github.io/ClusterValidityIndices.jl/dev/)
+- [JuliaHub](https://juliahub.com/ui/Packages/ClusterValidityIndices/Z19r6)
+- [The Journal of Open Source Software (JOSS)](https://joss.theoj.org/papers/10.21105/joss.03527)
+
+The project can be cited with the following BibTex entry:
+
+```bibtex
+@article{Petrenko2022,
+  doi = {10.21105/joss.03527},
+  url = {https://doi.org/10.21105/joss.03527},
+  year = {2022},
+  publisher = {The Open Journal},
+  volume = {7},
+  number = {79},
+  pages = {3527},
+  author = {Sasha Petrenko and Donald C. Wunsch},
+  title = {ClusterValidityIndices.jl: Batch and Incremental Metrics for Unsupervised Learning},
+  journal = {Journal of Open Source Software}
+}
+```

@@ -1,6 +1,6 @@
 ---
 title: AdaptiveResonance.jl
-subtitle: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0
+subtitle: A Julia package for Adaptive Resonance Theory (ART) algorithms.
 layout: single
 date: 2021-09-27
 
@@ -9,7 +9,7 @@ tags: [
     "Julia",
     "ART"
 ]
-summary: AdaptiveResonance.jl is registered as an official JuliaHub package at version 0.1.0.
+summary: AdaptiveResonance.jl is registered as an official JuliaHub package.
 
 header:
     # image: "/assets/posts/art-header.png"
@@ -48,9 +48,32 @@ header:
 #   preview_only: false
 ---
 
-![](/assets/posts/art-header.png)
+![AdaptiveResonance.jl](/assets/posts/art-header.png)
 
-`AdaptiveResonance.jl` is a registered JuliaHub package for Adaptive Resonance Theory (ART) modules.
-These algorithms are built upon a foundation of the neural theory and implementations of Stephen Grossberg and Gail Carpenter.
-
+[`AdaptiveResonance.jl`](https://github.com/AP6YC/AdaptiveResonance.jl) is a registered [JuliaHub](https://juliahub.com/ui/Packages/AdaptiveResonance/Sm0We) package, written in [`Julia`](https://julialang.org/) for Adaptive Resonance Theory (ART) modules ([documentation here](https://ap6yc.github.io/AdaptiveResonance.jl/dev/)).
+These algorithms are built upon a foundation of the adaptive resonance neural theory and implementations of Stephen Grossberg and Gail Carpenter.
 The contributions of the project are represented as an [paper](https://joss.theoj.org/papers/10.21105/joss.03671) in the Journal of Open Source Software (JOSS).
+
+The `AdaptiveResonance.jl` package is represented in the following locations:
+
+- [GitHub](https://github.com/AP6YC/AdaptiveResonance.jl)
+- [Documentation](https://ap6yc.github.io/AdaptiveResonance.jl/dev/)
+- [JuliaHub](https://juliahub.com/ui/Packages/AdaptiveResonance/Sm0We)
+- [The Journal of Open Source Software (JOSS)](https://joss.theoj.org/papers/10.21105/joss.03671)
+
+The project can be cited with the following BibTex entry:
+
+```bibtex
+@article{Petrenko2022,
+  doi = {10.21105/joss.03671},
+  url = {https://doi.org/10.21105/joss.03671},
+  year = {2022},
+  publisher = {The Open Journal},
+  volume = {7},
+  number = {73},
+  pages = {3671},
+  author = {Sasha Petrenko and Donald C. Wunsch},
+  title = {AdaptiveResonance.jl: A Julia Implementation of Adaptive Resonance Theory (ART) Algorithms},
+  journal = {Journal of Open Source Software}
+}
+```
