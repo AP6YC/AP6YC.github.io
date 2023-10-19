@@ -3,7 +3,9 @@ layout: home
 author_profile: true
 ---
 
-Welcome to the home page of Sasha Petrenko, a Ph.D. candidate of Computer Engineering at Missouri S&T and lifelong machine learning researcher.
+Welcome to the home page of [Sasha Petrenko](_pages/about.md), a Ph.D. candidate of Computer Engineering, Aerospace Engineer, and lifelong machine learning researcher at Missouri S&T.
+
+This website contains the following pages:
 
 - [About](_pages/about.md) to learn more about me.
 - [Posts](_pages/posts.md) to read posts chronologically.
