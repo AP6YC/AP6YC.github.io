@@ -15,7 +15,7 @@ header:
     # image: "/assets/posts/art-header.png"
     # placement: 2
     teaser: "/assets/posts/art-header.png"
-    caption: "Adaptive Resonance Theory"
+    caption: "The AdaptiveResonance.jl Julia package."
 # featured: true
 # # profile: true
 # # commentable: true

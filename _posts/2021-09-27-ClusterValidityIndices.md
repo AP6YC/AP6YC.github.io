@@ -13,7 +13,7 @@ summary: ClusterValidityIndices.jl is registered as an official JuliaHub.
 header:
     # image: "/assets/posts/cvi-header.png"
     teaser: "/assets/posts/cvi-header.png"
-    caption: "Adaptive Resonance Theory"
+    caption: "The ClusterValidityIndices.jl package."
 
 # featured: true
 # # profile: true

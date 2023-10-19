@@ -11,8 +11,8 @@ tags: [
 summary: The Rocket method for time series classification is implemented as a Julia package.
 
 header:
-    teaser: "/assets/posts/clustering.png"
-    caption: "Clustering"
+    teaser: "/assets/posts/art-header.png"
+    caption: "The Rocketeer.jl Julia package."
 
 ---
 
