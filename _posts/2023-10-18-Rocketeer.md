@@ -3,6 +3,8 @@ title: Rocketeer.jl
 subtitle: A Julia package for the Rocket method for time series classification.
 layout: single
 date: 2023-10-18
+# Date updated
+lastmod: 2024-03-31
 
 categories: ["projects"]
 tags: [
@@ -11,7 +13,7 @@ tags: [
 summary: The Rocket method for time series classification is implemented as a Julia package.
 
 header:
-    teaser: "/assets/posts/art-header.png"
+    teaser: "/assets/posts/rocketeer-header.png"
     caption: "The Rocketeer.jl Julia package."
 
 ---
