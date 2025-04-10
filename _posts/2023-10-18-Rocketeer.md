@@ -18,7 +18,7 @@ header:
 
 ---
 
-![Clustering icon from https://www.flaticon.com/free-icon/clustering_8847040](/assets/posts/clustering.png)
+![Rocketeer logo](/assets/posts/rocketeer-header.png)
 
 [`Rocketeer.jl`](https://github.com/AP6YC/Rocketeer.jl) is a Julia implementation of the [Rocket method](https://link.springer.com/article/10.1007/s10618-020-00701-z) ([documentation here](https://ap6yc.github.io/Rocketeer.jl/dev/)).
 The package a registered [JuliaHub](https://juliahub.com/ui/Packages/Rocketeer) package.
