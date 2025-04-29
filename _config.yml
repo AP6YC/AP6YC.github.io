@@ -31,7 +31,7 @@ title                    : "λόγος"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sasha Petrenko"
-description              : "Homepage of Sasha Petrenko, Aerospace Engineer and graduate researcher of lifelong machine learning"
+description              : "Homepage of Dr. Sasha Petrenko, research assistant professor of computer engineering, machine learning researcher, and aerospace engineer."
 url                      : "https://ap6yc.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AP6YC/AP6YC.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
