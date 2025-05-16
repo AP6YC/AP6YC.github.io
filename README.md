@@ -10,6 +10,12 @@ Local serve:
 bundle exec jekyll serve
 ```
 
+Track existing files with LFS (after adding to gitattributes):
+
+```shell
+git add --renormalize .
+```
+
 Font Awesome icons:
 - https://fontawesome.com/v5/search?p=3&o=r&m=free&s=solid
 
