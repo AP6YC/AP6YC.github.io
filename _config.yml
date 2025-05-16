@@ -117,7 +117,8 @@ analytics:
 author:
   name             : "Sasha Petrenko"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate of Computer Engineering, Aerospace Engineer, and lifelong machine learning researcher at Missouri S&T."
+  # bio              : "Ph.D. Candidate of Computer Engineering, Aerospace Engineer, and lifelong machine learning researcher at Missouri S&T."
+  bio              : "Ph.D. of Computer Engineering, research assistant professor, machine learning researcher, and aerospace engineer at Missouri S&T."
   location         : "Rolla, MO"
   email            : "petrenkos@mst.edu"
   links:

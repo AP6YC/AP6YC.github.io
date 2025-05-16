@@ -22,6 +22,8 @@ Font Awesome icons:
 {% include image.html url="/assets/posts/mountain.jpg" description="My cat, Robert Downey Jr." %}
 ```
 
+- SIAM logo: https://www.siam.org/newsroom/logo-guide/
+
 ## Logos
 
 <a href="https://www.flaticon.com/free-icons/lambda" title="lambda icons">Lambda icons created by Flat Icons - Flaticon</a>
