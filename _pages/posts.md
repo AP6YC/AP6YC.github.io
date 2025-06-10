@@ -3,5 +3,6 @@ title: "Posts by Year"
 permalink: /posts/
 layout: posts
 author_profile: true
-entries_layout: list
+# entries_layout: list
+entries_layout: grid
 ---
