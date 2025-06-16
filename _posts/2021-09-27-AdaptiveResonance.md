@@ -6,16 +6,29 @@ date: 2021-09-27
 
 categories: ["projects"]
 tags: [
-    "Julia",
-    "ART"
+  "Julia",
+  "ART"
 ]
-summary: AdaptiveResonance.jl is registered as an official JuliaHub package.
+# summary: AdaptiveResonance.jl is registered as an official JuliaHub package.
 
+# sidebar:
+#   - title: "Links"
+#     text: "[AdaptiveResonance.jl](https://github.com/AP6YC/AdaptiveResonance.jl)"
+
+excerpt: "Adaptive Resonance Theory (ART) algorithms in Julia."
 header:
-    # image: "/assets/posts/art-header.png"
-    # placement: 2
-    teaser: "/assets/posts/art-header.png"
-    caption: "The AdaptiveResonance.jl Julia package."
+  teaser: "/assets/posts/art-header.png"
+  # overlay_image: "/assets/posts/art-header.png"
+  # image: "/assets/posts/art-header.png"
+  image_description: "The AdaptiveResonance.jl Julia package."
+
+  # overlay_color: "#333"
+  # overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+  # caption: "The [**AdaptiveResonance.jl**](https://github.com/AP6YC/AdaptiveResonance.jl) Julia package."
+  # actions:
+  #   - label: "DOWNLOAD NOW"
+  #     url: "https://github.com/AP6YC/AdaptiveResonance.jl"
+
 # featured: true
 # # profile: true
 # # commentable: true

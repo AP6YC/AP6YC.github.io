@@ -8,7 +8,9 @@ tags: [
     "Julia",
     "CVI"
 ]
-summary: ClusterValidityIndices.jl is registered as an official JuliaHub.
+# summary: ClusterValidityIndices.jl is registered as an official JuliaHub.
+
+excerpt: "Unsupervised learning metrics (CVI/ICVIs) in Julia."
 
 header:
     # image: "/assets/posts/cvi-header.png"

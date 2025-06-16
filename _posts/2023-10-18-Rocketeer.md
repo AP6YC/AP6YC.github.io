@@ -10,8 +10,8 @@ categories: ["projects"]
 tags: [
     "Julia",
 ]
-summary: The Rocket method for time series classification is implemented as a Julia package.
-
+# summary: The Rocket method for time series classification is implemented as a Julia package.
+excerpt: "A Julia implementation of the Rocket method for time series classification."
 header:
     teaser: "/assets/posts/rocketeer-header.png"
     caption: "The Rocketeer.jl Julia package."
