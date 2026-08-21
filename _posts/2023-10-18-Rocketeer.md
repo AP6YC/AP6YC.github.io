@@ -6,7 +6,7 @@ date: 2023-10-18
 # Date updated
 lastmod: 2024-03-31
 
-categories: ["projects"]
+categories: ["software"]
 tags: [
     "Julia",
 ]

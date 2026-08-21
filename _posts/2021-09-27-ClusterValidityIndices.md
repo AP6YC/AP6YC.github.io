@@ -3,7 +3,7 @@ title: ClusterValidityIndices.jl
 subtitle: A Julia package for batch and incremental cluster validity indices.
 layout: single
 date: 2021-09-27
-categories: ["projects"]
+categories: ["software"]
 tags: [
     "Julia",
     "CVI"

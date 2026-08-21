@@ -4,7 +4,7 @@ subtitle: A Julia package for Adaptive Resonance Theory (ART) algorithms.
 layout: single
 date: 2021-09-27
 
-categories: ["projects"]
+categories: ["software"]
 tags: [
   "Julia",
   "ART"

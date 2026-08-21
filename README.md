@@ -17,6 +17,7 @@ git add --renormalize .
 ```
 
 Font Awesome icons:
+
 - https://fontawesome.com/v5/search?p=3&o=r&m=free&s=solid
 
 ## Images
@@ -38,3 +39,4 @@ Font Awesome icons:
 - https://www.flaticon.com/free-icon/lambda_4509473
 - https://www.flaticon.com/free-icon/lambda_6008188
 - https://www.flaticon.com/free-icon/lambda_6170353
+- https://www.flaticon.com/free-icon/book_2436729
